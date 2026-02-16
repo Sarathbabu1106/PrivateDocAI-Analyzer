@@ -1,0 +1,6 @@
+streamlit
+openvino-genai
+pypdf
+pillow
+pytesseract
+fpdf2
