@@ -111,3 +111,20 @@ MIT License - see LICENSE file for details
 - [OpenVINO](https://github.com/openvinotoolkit/openvino.genai) for model optimization
 - [Streamlit](https://streamlit.io/) for the web framework
 - Microsoft Phi-3.5 model
+
+## Screenshots
+Main interface
+<img width="1892" height="903" alt="Screenshot 2026-02-16 185038" src="https://github.com/user-attachments/assets/17dc9ded-8e8e-482b-bbd6-1995f9789e87" />
+
+Analysis Results
+<img width="1875" height="904" alt="Screenshot 2026-02-16 185419" src="https://github.com/user-attachments/assets/c4b55515-97fe-4810-a8b3-be492b6ec982" />
+
+Follow-up Question
+<img width="1854" height="879" alt="Screenshot 2026-02-16 185736" src="https://github.com/user-attachments/assets/1a6aa50b-76dd-4efc-8a86-b13e555cf653" />
+
+Assistant Answer
+<img width="1875" height="886" alt="Screenshot 2026-02-16 185920" src="https://github.com/user-attachments/assets/dfd176bb-250e-4e49-b3a6-fc373b74ab54" />
+
+
+
+
